@@ -1,7 +1,10 @@
-# Simple-Stable-Diffusion
-A super simple stable diffusion notebook, mostly just copied and trimmed down from the KerasCV tutorial! No huggingface keys, large instance or extra steps required.
+# Simple Stable Diffusion - 5 seconds per image on colab
 
-It will take only 5 seconds per image generation on free colab.
+A super simple stable diffusion notebook, mostly just copied and trimmed down from the KerasCV tutorial! 
+
+No huggingface keys, large instance or extra steps required.
+
+The cells take a few minutes the first time, then only 5 seconds per image generation on Colab free.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HnoiczjSaWj1IYmCrdxlheIBMk6b72QF?usp=sharing)
 
